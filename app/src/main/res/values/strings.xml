@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="tic_tac_toe_game">Tic Tac Toe Game</string>
+    <string name="made_by_arihant_jain">Made By Arihant Jain</string>
+    <string name="ajain8616_gmail_com">ajain8616@gmail.com</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="loading">Loading…</string>
+    <string name="_0">0%</string>
+</resources>
